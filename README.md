@@ -6,6 +6,22 @@ A terminal UI for organizing and running Makefile targets across multiple projec
 
 ---
 
+## Screenshots
+
+**Groups screen** — create and manage project groups
+
+![Groups screen](assets/groups-screen.png)
+
+**Main screen** — browse projects and their Makefile targets
+
+![Main screen](assets/main-screen.png)
+
+**Live output** — target output streams in real time
+
+![Output panel](assets/output-panel.png)
+
+---
+
 ## What is it?
 
 `mkm` lets you group your projects, browse their Makefile targets, and run them — all without leaving the terminal. Instead of `cd`-ing into each project and remembering target names, you manage everything from one interface.

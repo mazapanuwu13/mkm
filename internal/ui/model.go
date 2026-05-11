@@ -535,7 +535,7 @@ func (m Model) View() string {
 		return "Loading..."
 	}
 
-	header := AppTitleStyle.Render("AutoHost TUI -- Makefile Manager")
+	header := AppTitleStyle.Render("MkM -- Makefile Manager")
 
 	var body string
 	switch m.screen {
